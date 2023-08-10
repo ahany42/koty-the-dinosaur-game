@@ -1,0 +1,31 @@
+﻿  Source.cpp
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(105,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(349,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(353,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(354,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(359,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(360,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(581,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(588,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(604,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(608,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(609,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(616,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(824,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(832,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(835,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(844,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(846,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(849,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(853,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(889,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(890,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(893,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(897,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(954,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(955,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(956,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(1015,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(1016,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming projects\Dino the dinosaur\Dino the dinosaur\Source.cpp(1017,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'sfml-windows-s.lib'
